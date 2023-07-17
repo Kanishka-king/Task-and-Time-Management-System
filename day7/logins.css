@@ -1,0 +1,107 @@
+.app4 {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 110vh;
+    background-color: rgb(144, 101, 133);
+    background-image: url('https://myciti.in/wp-content/uploads/2021/02/staff-attendance-01.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  
+  .checkbox-container label {
+    flex: 1;
+  }
+  
+  
+  .uname {
+    height: 25px;
+    border: none;
+    
+    border-bottom:2px solid black;
+  
+  }
+  
+  .letin {
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    background: #9c6990;
+    
+    color: #fff;
+    padding: 10px 20px;
+   
+  }
+  
+  .letin:hover {
+    background: #9c4d72;
+    
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    border: none;
+  }
+  
+  .login-form {
+    background-color: white;
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 600px;
+  }
+  
+  .list-container {
+    display: flex;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
+  .title {
+    font-size: 25px;
+    margin-bottom: 20px;
+    border: none;
+    text-align: center;
+  }
+  
+  .input-containers {
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    align-items: center;
+    margin-left: 150px;
+   
+  }
+  
+  .input-containers label {
+    display: block;
+  }
+  
+  .checkbox-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    white-space: nowrap;
+    margin-left: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  
+  
+  
+  
+  .dd {
+    margin-left: 70px;
+    margin-top: 8px;
+  }
