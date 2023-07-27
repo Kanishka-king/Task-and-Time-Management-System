@@ -1,0 +1,103 @@
+.feed {
+    font-family: Arial, sans-serif;
+
+    background-image: url("https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlnaHRpbmd8ZW58MHx8MHx8fDA%3D&w=1000&q=80");
+    background-size: cover;
+    background-position: center;
+
+
+  }
+  
+  .myse {
+    margin-bottom: 220px;
+    color: rgb(221, 211, 211);
+    text-align: center;
+    margin-left: 50px;
+    
+  }
+  .feel{
+    text-align: center;
+    margin-left: 90px;
+  }
+  .inp_st {
+    margin-bottom: 15px;
+    padding: 5px;
+    width: 500px;
+    border-radius: 8px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+  }
+  
+  .loo{
+    padding: 5px 10px;
+    background-color: #4caf50;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+  }
+  
+  .loo:hover {
+    background-color: #6f9ade;
+  }
+  .loo1{
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #3254ba;
+    color: white;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+  }
+.delq{
+    padding-left: 20px;
+}
+  
+  .loo1:hover {
+    background-color: #344d75;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #7b8be3;
+    color: white;
+  }
+  
+  /* Styles for the component */
+  .FeesManagement {
+    margin: 20px;
+  }
+  
+  .FeesManagement input[type="text"] {
+    width: 200px;
+  }
+  
+  .FeesManagement button {
+    margin-left: 10px;
+  }
+  
+  .FeesManagement table {
+    margin-top: 20px;
+  }
+  
+  .FeesManagement th,
+  .FeesManagement td {
+    text-align: left;
+  }
+  .loo{
+align-items: center;  }
+
+.ter{
+    color: aliceblue;
+}
